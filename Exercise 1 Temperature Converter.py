@@ -1,6 +1,5 @@
 Tempt = float(input("Enter the Temperature: ")) # Will be asking the user to input a Temperature
 
-
 Conversion = input("Please Select your conversion type ( Type 'C' if Celsius to Celsius to Fahrenheit \
 or 'F' to convert from Fahrenheit to Celsius: ").upper() # Will ask the user to choose the conversion type
 
